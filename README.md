@@ -22,8 +22,7 @@
 
  
  </br>
-
-**Languages and Tools:**
+<h2>Languages and Tools:</h2>
 <br>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
@@ -41,5 +40,28 @@
 
 
 ---
+###  <h2>More About Me</h2> 
 
+```javascript
+const aneesh = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Typescript", "C++"],
+    askMeAbout: ["web dev", "UI/UX", "tech trends"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js"],
+            css: [ "Tailwind", "Bootstrap"],
+            animation-libraries: ["GSAP","Framer Motion"],
+        },
+        backEnd: {
+            js: ["Node", "Express"],
+        },
+       
+        databases: [ "MongoDB",  "Firebase Realtime DB"],
+        misc: ["Socket.IO", "REST APIs", "WebSockets"],
+    },
+    currentFocus: "Pioneering Interactive Web Experiences with Animation Wizardry",
+    funFact: "I can debug faster with a coffee in hand!"
+};
+```
 </div>
